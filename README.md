@@ -1,6 +1,4 @@
 ### Hi there 👋
-https://bonhelbust.github.io/myblog/
-
 <!--
 **Bonhelbust/Bonhelbust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
